@@ -1,0 +1,14 @@
+//Durga
+https://www.youtube.com/watch?v=68NuOrSerT8&list=PLd3UqWTnYXOkofdmEC1VB42cX8ZUwNEB7
+
+//all free request
+http://www.groupkt.com/post/f2129b88/free-restful-web-services-to-consume-and-test.htm
+
+//example
+http://www.mkyong.com/webservices/jax-rs/restful-java-client-with-jersey-client/
+
+//example
+https://github.com/Corefinder89/SampleJavaCodes/blob/master/src/Dummy1.java
+
+//example-jersey
+https://www.javatpoint.com/jax-rs-example-jersey
